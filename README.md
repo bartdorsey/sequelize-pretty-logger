@@ -9,7 +9,7 @@ it's magic.
 
 First install the package
 
-`npm install sequelize-pretty-logger`
+`npm install bartdorsey/sequelize-pretty-logger`
 
 Then require it in and call it to initialize your log function.
 
