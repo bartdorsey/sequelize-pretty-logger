@@ -1,0 +1,18 @@
+{
+  "name": "sequelize-pretty-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Bart Dorsey <bart@bartdorsey.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "pretty-data": "^0.40.0",
+    "prism-console": "^1.0.2",
+    "prismjs": "^1.23.0"
+  }
+}
