@@ -1,12 +1,16 @@
 {
   "name": "sequelize-pretty-logger",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Syntax-Highlighting Pretty Logger for Sequelize",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bartdorsey/sequelize-pretty-logger"
+  },
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": ["Sequelize", "logger"],
   "author": "Bart Dorsey <bart@bartdorsey.com>",
   "license": "ISC",
   "dependencies": {
