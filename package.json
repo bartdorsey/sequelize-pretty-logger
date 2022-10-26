@@ -14,9 +14,9 @@
   "author": "Bart Dorsey <bart@bartdorsey.com>",
   "license": "ISC",
   "dependencies": {
-    "jest": "^26.6.3",
+    "jest": "^29.2.2",
     "pretty-data": "^0.40.0",
     "prism-console": "^1.0.2",
-    "prismjs": "^1.23.0"
+    "prismjs": "^1.29.0"
   }
 }
