@@ -1,6 +1,6 @@
 {
   "name": "sequelize-pretty-logger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Syntax-Highlighting Pretty Logger for Sequelize",
   "repository": {
     "type": "git",
