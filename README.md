@@ -24,7 +24,7 @@ Then require it in and call it to initialize your log function.
 Then feed it to sequelize's logging option.
 
 ```js
-const log = require('sequelize-pretty-logger`)();
+const log = require('sequelize-pretty-logger')();
 
 const db = new Sequelize(process.env.DATABASE_URL, {
   logging: log
